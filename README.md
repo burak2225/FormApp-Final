@@ -9,5 +9,5 @@ Ogrenci: Kayıtlı öğrencilerin aratınılabildiği, yeni öğrenci kaydının
 Ogretim Gorevlisi: Kayıtlı görevlilerin aratınılabildiği, yeni görevli kaydının id, ad, bolum, verdiği dersler bilgileri alınarak kaydedildiği form.
 
 Final Projesidir.
-Nesneye Dayalı Programlama
+Nesneye Dayalı Programlama 2
 Burak Özbey
